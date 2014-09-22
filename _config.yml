@@ -1,5 +1,5 @@
 url: https://www.madebyme.shop
-baseurl: /web/
+baseurl: 
 
 # Site settings
 title: Made by Me
@@ -8,43 +8,21 @@ description: "Detalles especiales hechos a mano con mucho amor."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503 
+  primary: 229E91
+  secondary: 3FB1A5
   secondary-dark: 000
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Naikare Aldama
   pic: 1
-  position: Lead Designer
+  position: Crafter
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -62,8 +40,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Leioa, Bizkaia
+  #- line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
