@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Envoltorios
+subtitle: Porque un regalo sin envolver, no es un regalo.
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: envoltorios.png
+thumbnail: envoltorios-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
