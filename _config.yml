@@ -8,8 +8,8 @@ description: "Detalles especiales hechos a mano con mucho amor."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503 
+  primary: 287CA0
+  secondary: 0972A0 
   secondary-dark: 000
 
 # Team names, titles and social links
