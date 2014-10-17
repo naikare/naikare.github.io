@@ -7,6 +7,6 @@ date: 2014-07-15
 img: envoltorios.png
 thumbnail: envoltorios-thumbnail.png
 alt: envoltorios 
-description: Aquí va la descripción de los envoltorios de regalo.
+description: Si no está envuelto, no es un regalo.
 
 ---

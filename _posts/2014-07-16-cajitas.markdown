@@ -4,9 +4,9 @@ subtitle: Para pequeños detalles
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: cajitas.png
-thumbnail: cajitas-thumbnail.png
+img: cajitas.jpg
+thumbnail: cajitas-thumbnail.jpg
 alt: cajitas de regalo 
-description: Aquí va la descripción de las cajitas de regalo.
+description: Para que los regalos brillen de verdad, no hay nada como estas preciosas cajas personalizadas con el nombre o mensaje que desees.
 
 ---

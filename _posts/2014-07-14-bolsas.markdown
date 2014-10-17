@@ -7,6 +7,6 @@ date: 2014-07-14
 img: bolsas.png
 thumbnail: bolsas-thumbnail.png
 alt: Bolsas 
-description: Aquí debería ir una descripción corta de las bolsas de regalo.
+description: El perfecto toque final para cualquier regalo. Bolsas con diseños fantásticos y colores vivos para niños, o colores elegantes y pequeños detalles para cualquier persona.
 
 ---

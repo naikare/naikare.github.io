@@ -4,9 +4,9 @@ subtitle: Un detalle elegante.
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: camafeos.png
-thumbnail: camafeos-thumbnail.png
+img: camafeos.jpg
+thumbnail: camafeos-thumbnail.jpg
 alt: camafeos
-description: Aquí debería ir una descripción corta pero efectiva de los camafeos. 
+description: Envíame la foto que quieras y yo la convertiré en un elegante camafeo de aspecto vintage. 
 
 ---
