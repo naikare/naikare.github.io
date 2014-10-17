@@ -1,0 +1,12 @@
+---
+title: Camafeos
+subtitle: Un detalle elegante.
+layout: default
+modal-id: 2
+date: 2014-07-11
+img: camafeos.jpg
+thumbnail: camafeos-thumbnail.jpg
+alt: camafeos
+description: Envíame la foto que quieras y yo la convertiré en un elegante camafeo de aspecto vintage. 
+
+---

@@ -1,0 +1,12 @@
+---
+title: Marcos
+subtitle: La mejor manera de inmortalizar un momento.
+layout: default
+modal-id: 1
+date: 2014-07-12
+img: marcos.jpg
+thumbnail: marcos-thumbnail.jpg
+alt: marcos 
+description: Un regalo especial para una persona especial. Envíame una foto que te guste y yo la convertiré en un precioso marco totalmente personalizado.
+
+---

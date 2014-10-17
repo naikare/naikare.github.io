@@ -1,0 +1,12 @@
+---
+title: Bolsas de regalo
+subtitle: El toque final de un regalo.
+layout: default
+modal-id: 4
+date: 2014-07-09
+img: bolsas.png
+thumbnail: bolsas-thumbnail.png
+alt: Bolsas 
+description: El perfecto toque final para cualquier regalo. Bolsas con diseños fantásticos y colores vivos para niños, o colores elegantes y pequeños detalles para cualquier persona.
+
+---
