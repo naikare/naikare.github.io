@@ -1,9 +1,9 @@
-url: https://www.madebyme.shop
+url: https://www.madebymeshop.com
 baseurl: 
 
 # Site settings
 title: Made by Me
-email: naikare@madebymeshop.com
+email: info@madebymeshop.com
 description: "Detalles especiales hechos a mano con mucho amor."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -19,20 +19,20 @@ people:
   position: Crafter
   social:
     - title: facebook
-      url: http://www.facebook.com/naikarealdama
+      url: http://www.facebook.com/madebymeshopcom
     - title: instagram
       url: http://instagram.com/naikart
     - title: envelope
-      url: mailto:naikare@madebymeshop.com
+      url: mailto:info@madebymeshop.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
     - title: facebook
-      url: http://www.facebook.com/naikarealdama
+      url: http://www.facebook.com/madebymeshopcom
     - title: instagram
       url: http://instagram.com/naikart
     - title: envelope
-      url: mailto:naikare@madebymeshop.com
+      url: mailto:info@madebymeshop.com
 
 # Postal address (add as many lines as necessary)
 address:
