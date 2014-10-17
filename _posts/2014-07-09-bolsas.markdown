@@ -2,8 +2,8 @@
 title: Bolsas de regalo
 subtitle: El toque final de un regalo.
 layout: default
-modal-id: 5
-date: 2014-07-14
+modal-id: 4
+date: 2014-07-09
 img: bolsas.png
 thumbnail: bolsas-thumbnail.png
 alt: Bolsas 
